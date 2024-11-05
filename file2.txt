@@ -1,1 +1,2 @@
 ini di remote 2
+baris baru : ini di lokal2
